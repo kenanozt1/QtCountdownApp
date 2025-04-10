@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/Seven Segment.ttf</file>
+    </qresource>
+</RCC>

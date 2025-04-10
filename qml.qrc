@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Component/Button.qml</file>
+        <file>Component/DateLabel.qml</file>
+        <file>Component/TextInput.qml</file>
+        <file>dialogs/DatetimeUpdateDialog.qml</file>
+        <file>GlobalObjects.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
